@@ -1,0 +1,39 @@
+table1 {
+	width: 500px
+}
+th {
+	text-align: center;
+}
+table, th, td {
+	border: 1px solid #000;
+	border-collapse: collapse;
+}
+th, td {
+	padding: 10px;
+	text-align: center;
+}
+body {
+background-color: #196ff;
+text-align: center;
+}
+#main{
+	width: 1000px;
+	height: 1200px;
+	background-color: #ffab19;
+	margin: 25px auto;
+	border: solid 2px #ff3819;
+	padding: 10px;
+	align: center;
+} 
+
+#tab {
+	background-color: #ffab19;
+	margin: 25px auto;
+	border: solid 2px #ff3819;
+	padding: 10px;
+	align: center;
+}
+.img-me {
+	width: 200px;
+	position: relative;
+}
